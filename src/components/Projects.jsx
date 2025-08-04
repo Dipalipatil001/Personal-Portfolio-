@@ -30,7 +30,7 @@ const projects = [
     description: "A personal developer portfolio built with React and Tailwind CSS.",
     tech: ["React", "Tailwind CSS"],
     github: "https://github.com/Dipalipatil001/Personal-Portfolio-.git",
-    live: "https://your-portfolio.vercel.app",
+    live: "https://personal-portfolio-pi-eight-75.vercel.app/",
     image: project3Img,
   },
   {
